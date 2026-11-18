@@ -1,2 +1,2 @@
 // Clé PUBLIQUE (publishable/anon) de Supabase : Settings > API. Elle peut être publique, la sécurité repose sur les règles RLS.
-window.YC_CFG={url:'https://tamkjxgqkonlcwlgtbvu.supabase.co',key:'COLLER_ICI_LA_CLE_PUBLIQUE'};
+window.YC_CFG={url:'https://tamkjxgqkonlcwlgtbvu.supabase.co',key:'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRhbWtqeGdxa29ubGN3bGd0YnZ1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTQ5NTYzMzEsImV4cCI6MjExMDUzMjMzMX0.w9gnN4buod8f4Z6qW1wsUbd7dxylTnvEtHkI4Y0SSfA'};
